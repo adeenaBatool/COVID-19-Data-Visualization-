@@ -1,5 +1,5 @@
-# COVID-19-Data-Vitualization-
-A Project of Data vitualization ON an COVID'19 dataset which is taken from
+# COVID-19-Data-Visualization-
+A Project of Data visualization ON an COVID'19 dataset which is taken from
 
 https://www.kaggle.com/mesumraza/corona-virus-pakistan-dataset-2020
 
